@@ -36,3 +36,9 @@ java -Djava.awt.headless=true DateTimePickerDialog --self-test
 已基于 `main` 创建 `branch1` 和 `branch2`，分别修改并提交 `1.txt`，将 `branch1` 合并回 `main`，并把全部分支推送到远程仓库。
 
 分支结构、提交编号和各分支文件内容见 [本地分支操作练习记录](BRANCH_EXERCISE.md)。
+
+## Pull Request 练习
+
+已在 `branch1` 修改并提交 `1.txt`，创建从 `branch1` 到 `main` 的 Pull Request；拉取待合并内容完成审查后，采纳并合并请求。
+
+Pull Request、审查结论、提交编号和合并结果见 [Pull Request 练习记录](PULL_REQUEST_EXERCISE.md)。
