@@ -34,7 +34,7 @@ public final class DateTimePickerDialog extends JDialog {
     private LocalDateTime selection;
 
     public DateTimePickerDialog(Window owner, LocalDateTime initial) {
-        super(owner, "选择日期和时间", ModalityType.APPLICATION_MODAL);
+        super(owner, "选择日期和时间（回退演示）", ModalityType.APPLICATION_MODAL);
         if (initial.getYear() < 1 || initial.getYear() > 9999) {
             throw new IllegalArgumentException("年份必须在 1 至 9999 之间");
         }
