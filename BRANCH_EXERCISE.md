@@ -57,10 +57,10 @@ Git 本地分支操作练习
 修改内容：完成 branch2 的本地提交
 ```
 
-远程分支引用已核对：
+关键练习提交：
 
 ```text
-main     650a7ce6ff3b96c3e451bcfad926f3e0df8a84a2
-branch1  558a36f92a7eb95d97485983ae296790f82bc97b
-branch2  a5a5a324a0a701628995f2d301e69cde16ce3942
+合并 branch1  650a7ce6ff3b96c3e451bcfad926f3e0df8a84a2
+branch1 提交  558a36f92a7eb95d97485983ae296790f82bc97b
+branch2 提交  a5a5a324a0a701628995f2d301e69cde16ce3942
 ```
