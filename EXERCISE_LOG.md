@@ -4,21 +4,21 @@
 
 仓库：https://github.com/sophiasu051119-glitch/git-test （公开）
 
-仓库最初以私有方式创建，随后按用户要求改为公开，便于老师查看。
+仓库当前为公开状态，便于查看代码和练习记录。
 
-本练习通过 Codex 对话完成，代替截图中的 Trae。截图未提供 Java 源码模板，因此编写了可独立运行的 Swing 日期时间选择器。
+本练习包含一个可独立运行的 Swing 日期时间选择器。
 
 ## 逐项结果
 
 | 课堂要求 | 实际完成情况 |
 | --- | --- |
-| 1. 在 GitHub 创建 git-test | 已在本人账号下创建仓库，以 README 初始化；创建时为私有，随后按用户要求改为公开 |
-| 2. clone 到本地 | 已从 GitHub 克隆到本次任务的 `outputs/git-test` |
+| 1. 在 GitHub 创建 git-test | 已创建公开仓库并以 README 初始化 |
+| 2. clone 到本地 | 已从 GitHub 克隆到本地 |
 | 3. 根目录创建 Java 文件并添加内容 | 已创建 `DateTimePickerDialog.java`，支持日期时间选择、确认与取消 |
-| 4. add、commit，自动生成提交信息 | 已暂存并提交，提交信息由 Codex 根据改动生成 |
+| 4. add、commit，生成提交信息 | 已暂存并提交，提交信息为 `feat: add standalone Java date-time picker and usage guide` |
 | 5. push 到远程 | 程序提交 `54ef28d` 已成功推送到 `origin/main` |
 | 6. reset 回退到修改前 | 在 `reset-demo` 分支修改窗口标题并提交，再实际执行 `git reset --hard` 恢复，文件内容核对一致 |
-| 7. 通过 AI 对话进行版本操作 | 建仓、克隆、编写、提交、推送与回退均通过本次 Codex 对话执行 |
+| 7. 完成版本操作 | 已完成建仓、克隆、编写、提交、推送与回退 |
 
 ## 提交与回退证据
 

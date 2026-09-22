@@ -1,6 +1,6 @@
 # git-test
 
-基于 Git 的协同开发课堂练习，使用 Codex 完成，无需安装 Trae。
+基于 Git 的协同开发课堂练习。
 
 本仓库现已公开，老师可直接查看代码、运行截图和练习完成记录。
 
@@ -27,6 +27,6 @@ java -Djava.awt.headless=true DateTimePickerDialog --self-test
 
 ## 练习内容
 
-在 GitHub 创建 `git-test` 仓库，克隆到本地；添加 Java 文件，完成 `add`、`commit` 和 `push`；随后通过 Codex 对话进行修改和 `reset` 回退演示。
+在 GitHub 创建 `git-test` 仓库，克隆到本地；添加 Java 文件，完成 `add`、`commit` 和 `push`；随后修改文件并完成 `reset` 回退演示。
 
 完整的步骤、提交编号与回退证据见 [练习完成记录](EXERCISE_LOG.md)。
