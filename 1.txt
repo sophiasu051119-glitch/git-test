@@ -1,3 +1,4 @@
 Git 本地分支操作练习
 当前分支：branch1
-修改内容：完成 branch1 的本地提交
+第三次练习：通过 Pull Request 将 branch1 的修改合并到 main
+状态：等待代码审查与合并
