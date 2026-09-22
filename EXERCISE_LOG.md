@@ -2,7 +2,9 @@
 
 完成日期：2026-09-22。GitHub 账号：`sophiasu051119-glitch`。
 
-仓库：https://github.com/sophiasu051119-glitch/git-test （私有）
+仓库：https://github.com/sophiasu051119-glitch/git-test （公开）
+
+仓库最初以私有方式创建，随后按用户要求改为公开，便于老师查看。
 
 本练习通过 Codex 对话完成，代替截图中的 Trae。截图未提供 Java 源码模板，因此编写了可独立运行的 Swing 日期时间选择器。
 
@@ -10,7 +12,7 @@
 
 | 课堂要求 | 实际完成情况 |
 | --- | --- |
-| 1. 在 GitHub 创建 git-test | 已在本人账号下创建私有仓库，以 README 初始化 |
+| 1. 在 GitHub 创建 git-test | 已在本人账号下创建仓库，以 README 初始化；创建时为私有，随后按用户要求改为公开 |
 | 2. clone 到本地 | 已从 GitHub 克隆到本次任务的 `outputs/git-test` |
 | 3. 根目录创建 Java 文件并添加内容 | 已创建 `DateTimePickerDialog.java`，支持日期时间选择、确认与取消 |
 | 4. add、commit，自动生成提交信息 | 已暂存并提交，提交信息由 Codex 根据改动生成 |
