@@ -4,6 +4,8 @@
 
 项目根目录的 `DateTimePickerDialog.java` 是一个独立的 Java 日期时间选择器。默认显示当前时间，支持年、月、日、时、分选择，自动处理闰年和每月天数；点击“确定”显示所选时间，点击“取消”、关闭窗口或按 Esc 退出。
 
+![程序实际运行窗口](docs/date-time-picker.png)
+
 ## 运行
 
 需要 JDK 8 或更新版本。图形界面需要桌面环境，无第三方依赖。
@@ -25,4 +27,4 @@ java -Djava.awt.headless=true DateTimePickerDialog --self-test
 
 在 GitHub 创建 `git-test` 仓库，克隆到本地；添加 Java 文件，完成 `add`、`commit` 和 `push`；随后通过 Codex 对话进行修改和 `reset` 回退演示。
 
-提交记录与实际操作说明用于核对练习完成情况。
+完整的步骤、提交编号与回退证据见 [练习完成记录](EXERCISE_LOG.md)。
