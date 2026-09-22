@@ -30,3 +30,9 @@ java -Djava.awt.headless=true DateTimePickerDialog --self-test
 在 GitHub 创建 `git-test` 仓库，克隆到本地；添加 Java 文件，完成 `add`、`commit` 和 `push`；随后修改文件并完成 `reset` 回退演示。
 
 完整的步骤、提交编号与回退证据见 [练习完成记录](EXERCISE_LOG.md)。
+
+## 本地分支操作练习
+
+已基于 `main` 创建 `branch1` 和 `branch2`，分别修改并提交 `1.txt`，将 `branch1` 合并回 `main`，并把全部分支推送到远程仓库。
+
+分支结构、提交编号和各分支文件内容见 [本地分支操作练习记录](BRANCH_EXERCISE.md)。
